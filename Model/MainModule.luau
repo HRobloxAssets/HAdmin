@@ -1,1 +1,5 @@
-print("HAdmin is imported.")
+local MainModule = script
+
+MainModule.Print = function (Text:string)
+
+end)
