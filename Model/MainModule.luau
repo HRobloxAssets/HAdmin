@@ -1,3 +1,1 @@
-local MainModule = script
-
-
+local Scripts = {}
