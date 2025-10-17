@@ -1,1 +1,3 @@
-local Scripts = {}
+local Scripts = {
+ script.Parent.HAdminGlobals
+}
